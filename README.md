@@ -1,7 +1,6 @@
 ##  _Assginment For Backend Developer Role_
 
   Author: Sumit Kumar Singh
-  Resume: https://drive.google.com/file/d/1mfdmodzdsbRY2lTMScKfcCyCuiyYHkmZ/view?usp=sharing
 
 ### How to setup
 
